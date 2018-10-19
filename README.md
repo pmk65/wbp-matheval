@@ -20,7 +20,7 @@ Example: pow(6,8) or Math.pow(6,8)
 
 The following Math Constants are also valid: *E, LN2, LN10, LOG2E, LOG10E, PI, SQRT1_2, SQRT2*
 
-### How it works:
+#### How it works:
  * If you make a SELECTION and activate the plugin, the SELECTION will be evaluated and the REPLACED by the mathematical result.
  * If the line ENDS with a "=" sign, anything on the LEFT of the "=" will be evaluated and the result will be INSERTED after the "=" sign.
  * Otherwise, if the line CONTAINS a "=" sign, anything on the RIGHT of the "=" will be evaluated and the REPLACED by the mathematical result.
